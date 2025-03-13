@@ -43,8 +43,8 @@ Related Courses & Online LinkedIn Learning
 - Badminton
 
 ## FIND ME❤
--[Google Scholar](https://scholar.google.com/citations?hl=en&user=i4oOXhcAAAAJ&view_op=list_works&sortby=pubdate)
--email: drxwang22@gmail.com
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=i4oOXhcAAAAJ&view_op=list_works&sortby=pubdate)
+- email: drxwang22@gmail.com
   
 
 
