@@ -1,5 +1,5 @@
 # xiaocuiwang.com
-## SUMMARY 
+## SUMMARY ✨
 - Experienced researcher with >10 years of experience in biological research and >5 years of experience in the data analysis, statistical analysis, and image analysis;
 -	Hands-on experience in data collection, data wrangling and data visualization in R and Python.
 -	Capable of solving complex quantitative problems and forming data-driven insights using advanced statistical analysis and machine learning techniques.
