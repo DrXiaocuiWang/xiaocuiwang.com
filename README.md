@@ -1,4 +1,3 @@
-# xiaocuiwang.com
 # 🐱‍🏍 Xiaocui Wang | Postdoc researcher & Data Scientist 🐱‍🏍 
 ## ✨ SUMMARY
 - Experienced researcher with >10 years of experience in biological research and >5 years of experience in the data analysis, statistical analysis, and image analysis;
