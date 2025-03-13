@@ -1,4 +1,4 @@
-# 🐱‍🏍 Xiaocui Wang | Postdoc researcher & Data Scientist 🐱‍🏍 
+# 🐱‍🏍 Xiaocui Wang | Postdoc researcher & Data Scientist 
 ## ✨ SUMMARY
 - Experienced researcher with >10 years of experience in biological research and >5 years of experience in the data analysis, statistical analysis, and image analysis;
 -	Hands-on experience in data collection, data wrangling and data visualization in R and Python.
@@ -42,7 +42,8 @@ Related Courses & Online LinkedIn Learning
 - Running
 - Badminton
 
-## ✨CONTACT ME
+## ✨FIND ME
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=i4oOXhcAAAAJ&view_op=list_works&sortby=pubdate)
 email: drxwang22@gmail.com
   
 
