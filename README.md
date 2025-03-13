@@ -1,10 +1,10 @@
 # 🐱‍🏍 Xiaocui Wang | Postdoc researcher & Data Scientist 
-## ✨ SUMMARY
+## SUMMARY
 - Experienced researcher with >10 years of experience in biological research and >5 years of experience in the data analysis, statistical analysis, and image analysis;
 -	Hands-on experience in data collection, data wrangling and data visualization in R and Python.
 -	Capable of solving complex quantitative problems and forming data-driven insights using advanced statistical analysis and machine learning techniques.
 
-## ✨ SKILLS 
+## SKILLS 
 **Analytical skills**: 
 - Programming: R, Python, SQL | Advanced statistical analysis: GLMM, multivariate analysis
 - Bioinformatics: Bulk RNA-seq analysis (DESeq2); Single cell RNA-seq analysis (Seurat)
@@ -20,7 +20,7 @@
 - Writing: scientific writing, grant writing, protocol writing | Public speaking | Project management | Time management | Multitasking | Problem-solving
 - Critical thinking | Teaching | Supervision | Attention to detail | Leadership | Teamwork | Communication | Networking | Adaptability | Creativity
 
-## ✨ EDUCATION
+## EDUCATION
 University of Groningen, Faculty of Science and Engineering, Groningen, NL
 -	PhD in Behavioral Neurogenetics and Evolution
 -	10/2017 - 11/2022
@@ -37,14 +37,14 @@ Related Courses & Online LinkedIn Learning
 - Advanced statistics using R, Statistics Course, Bioinformatics, Probability Theory, Linear Algebra, Calculus, Mathematical modelling
 - Applied Machine Learning: Algorithms; SQL Essential Training; The Data Science of Healthcare
 
-## ✨ HOBBIES
+## HOBBIES😎
 - Hiking
 - Running
 - Badminton
 
-## ✨FIND ME
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=i4oOXhcAAAAJ&view_op=list_works&sortby=pubdate)
-email: drxwang22@gmail.com
+## FIND ME❤
+-[Google Scholar](https://scholar.google.com/citations?hl=en&user=i4oOXhcAAAAJ&view_op=list_works&sortby=pubdate)
+-email: drxwang22@gmail.com
   
 
 
